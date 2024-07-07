@@ -1,4 +1,4 @@
-baseurl      = "eiken.io"
+baseurl      = "https://eiken.io"
 title        = "Eiken's blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
