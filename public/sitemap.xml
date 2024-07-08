@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://eiken.io/</loc>
+    <lastmod>2024-07-08T20:03:46+02:00</lastmod>
+  </url><url>
+    <loc>https://eiken.io/posts/</loc>
+    <lastmod>2024-07-08T20:03:46+02:00</lastmod>
+  </url><url>
+    <loc>https://eiken.io/posts/1st-post/</loc>
     <lastmod>2024-07-07T19:30:38+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-07-07T19:30:38+02:00</lastmod>
+    <loc>https://eiken.io/blog/</loc>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>https://eiken.io/series/</loc>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://eiken.io/tags/</loc>
   </url>
 </urlset>
