@@ -25,6 +25,7 @@ Hello and welcome to my first blog post. I recently finished my bachelor’s deg
 	- [ ] Tools
 	- [ ] Some personal setup?
 - [ ] Goals with this blog?
+- [ ] How did I setup this? 
 
 
 **A Few Extra Tips:**
