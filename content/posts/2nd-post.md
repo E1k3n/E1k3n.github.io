@@ -12,7 +12,7 @@ tags:
 Hello and welcome to my first blog post. I recently finished my bachelor’s degree in Digital Infrastructure and Cybersecurity and am somewhat unsure of where my path leads for the coming year or two. I have a few projects I’ve deemed interesting and want to work with, and for future reminiscing I will do my best at documenting the parts I find interesting on this site. This will include tags like vulnerability scanning, tooling, test-environments, development and more infosec related stuffs. 
 
 
-- [ ] Goals? Purpose of writing blog?
+- [ ] Goals with this blog? Purpose of writing blog?
 - [ ] What have I previously done?
 - [ ] Include how and why I started in cybersecurity
 - [ ] What have I done?
@@ -24,7 +24,6 @@ Hello and welcome to my first blog post. I recently finished my bachelor’s deg
 	- [ ] News? 
 	- [ ] Tools
 	- [ ] Some personal setup?
-- [ ] Goals with this blog?
 - [ ] How did I setup this? 
 
 
