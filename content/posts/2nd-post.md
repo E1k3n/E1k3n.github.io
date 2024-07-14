@@ -34,7 +34,7 @@ Hello and welcome to my first blog post. I recently finished my bachelor’s deg
 - **Keep it concise:** The first post sets the tone, so get to the point and leave your audience wanting more.
 
 
-# A Cybersecurity'Graduate’s Quest of Leveling Up
+# A Cybersecurity Graduate’s Quest of Leveling Up 
 
 ## Introduction
 
