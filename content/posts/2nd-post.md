@@ -34,4 +34,7 @@ Hello and welcome to my first blog post. I recently finished my bachelor’s deg
 - **Keep it concise:** The first post sets the tone, so get to the point and leave your audience wanting more.
 
 
-# 
+# Title ( #todo)
+
+Introduction
+Is this thing on? Hellooo, fellow cyberhumans! I’m here to spill the tea on my journey from cybersecurity newbie to hopefully-not-so-newbie. I’m fresh off the 
