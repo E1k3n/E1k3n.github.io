@@ -34,7 +34,16 @@ Hello and welcome to my first blog post. I recently finished my bachelor’s deg
 - **Keep it concise:** The first post sets the tone, so get to the point and leave your audience wanting more.
 
 
-# Title ( #todo)
+# A Cybersecurity'Graduate’s Quest of Leveling Up
 
-Introduction
-Is this thing on? Hellooo, fellow cyberhumans! I’m here to spill the tea on my journey from cybersecurity newbie to hopefully-not-so-newbie. I’m fresh off the 
+## Introduction
+
+Is this thing on? Hellooo, fellow cyberhumans! I’m here to spill the tea on my journey from cybersecurity newbie to hopefully-not-so-newbie. I’m fresh off university with a bachelor’s degree in Digital Infrastructure and Cybersecurity, ready to dive headfirst into the world of firewalls, 
+
+## Why Cybersecurity?
+
+
+## What I’ve Done So Far
+
+
+## What I’m Currently Up To
