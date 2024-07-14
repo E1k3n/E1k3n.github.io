@@ -32,3 +32,6 @@ Hello and welcome to my first blog post. I recently finished my bachelor’s deg
 - **Choose a title:** A catchy title will draw readers in. Examples: "Cybersecurity Chronicles," "The Newbie Hacker's Guide," "From Classroom to Keyboard: My Infosec Journey"
 - **Add a personal touch:** Share a brief story or anecdote about why you're passionate about cybersecurity.
 - **Keep it concise:** The first post sets the tone, so get to the point and leave your audience wanting more.
+
+
+# 
