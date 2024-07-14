@@ -38,7 +38,7 @@ Hello and welcome to my first blog post. I recently finished my bachelor’s deg
 
 ## Introduction
 
-Is this thing on? Hellooo, fellow cyberhumans! I’m here to spill the tea on my journey from cybersecurity newbie to hopefully-not-so-newbie. I’m fresh off university with a bachelor’s degree in Digital Infrastructure and Cybersecurity, ready to dive headfirst into the world of firewalls, 
+Is this thing on? Hellooo, fellow cyberhumans! I’m here to spill the tea on my journey from cybersecurity newbie to hopefully-not-so-newbie. I’m fresh off university with a bachelor’s degree in Digital Infrastructure and Cybersecurity, ready to dive headfirst into the world of 
 
 ## Why Cybersecurity?
 
