@@ -45,11 +45,15 @@ One particular podcast sparked my interest in cybersecurity. Darknet Diares, whi
 
 ## What I’ve Done So Far
 Finished my bachelor’s degree with a strong curiosity for offensive security, which our bachelor’s thesis displays. I was elected leader of the student union Login half-way into the second semester of the first year and started working part-time as a security analyst at a SOC. Being active in the student union, working part-time and having a full-time study presented me with challenges I haven’t had to face before, but also gave me enormous amounts of positive experiences, knowledge and connections I wouldn’t want to be without. 
-The past three years have been absolutely invaluable for both personal and professional development. I have challenged myself and found a balance which is more sustainable than I started out with during my first and second year. I started using Ubuntu as my main operating system towards the end of my first year and used it all of second year before testing out window tiling managers. Sway was the WM of choice, which absolutely served it’s purpose even on Ubuntu, but I made the mistake of stumbling onto the [unixporn](https://www.reddit.com/r/unixporn/) reddit. Following the graduation, I ended up installing Arch linux, using hyprland as my environment of choice. I am still in the process of customizing my environment to my liking and might share my dotfiles at some point if it is of any interest. 
+The past three years have been absolutely invaluable for both personal and professional development. I have challenged myself and found a balance which is more sustainable than I started out with during my first and second year. I started using Ubuntu as my main operating system towards the end of my first year and used it all of second year before testing out window tiling managers. Sway was the WM of choice, which absolutely served it’s purpose even on Ubuntu, but I made the mistake of stumbling onto the [unixporn](https://www.reddit.com/r/unixporn/) reddit. Following the graduation, I ended up installing Arch linux, using hyprland as my environment of choice. I am still in the process of customizing my environment to my liking and might share my config (dotfiles) at some point if it is of any interest. 
 
 ## What I’m Currently Up To
+Currently I am considering if I should accept the offer for admittance to a master in information security at NTNU, take a couple of programming subjects or if I should take a year where I work on projects I’ve set aside during the course of my studies due to not having enough time. I have always been fairly set on the fact that I want to pursuit offensive security at some point in my infosec career. 
 
 ## Goals for this blog
+- [ ] Motivation
+- [ ] Future reminiscing
+- [ ] Documenting my experiences and road
 
 ## What you can expect
 
