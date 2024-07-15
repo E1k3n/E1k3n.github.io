@@ -1,14 +1,13 @@
 ---
-title: A Cybersecurity Graduate's Quest of Leveling Up
+title: A Cybersecurity Graduate's Quest for digital glory
 date: 2024-07-08T20:03:46+02:00
 draft: true
 toc: false
 images: 
 tags:
   - untagged
+  - informational
 ---
-
-
 ## Introduction
 
 Is this thing on? _Taps mic_ Helloooo, fellow cyberhumans! 👋 Your friendly neighborhood cybersecurity newbie here, fresh out of university with a degree in Digital Infrastructure and Cybersecurity. I'm ditching the metal shears for Caido/Burp and ready to dive headfirst into the wild world of ethical hacking. Buckle up, this is my first blog post.
