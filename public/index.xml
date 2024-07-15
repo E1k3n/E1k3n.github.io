@@ -10,13 +10,6 @@
     <lastBuildDate>Mon, 08 Jul 2024 20:03:46 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Cybersecurity Graduate&#39;s Quest for digital glory</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Mon, 08 Jul 2024 20:03:46 +0200</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>Introduction Is this thing on? Taps mic Helloooo, fellow cyberhumans! 👋 Your friendly neighborhood cybersecurity newbie here, fresh out of university with a degree in Digital Infrastructure and Cybersecurity. I&amp;rsquo;m ditching the metal shears for Caido/Burp and ready to dive headfirst into the wild world of ethical hacking. Buckle up, this is my first blog post.&#xA;Why Cybersecurity? Blame it on the Darknet Diaries. 🎧 This podcast (which I highly recommend, by the way) opened my eyes to a whole new universe while I was busy hammering metal at my old job in a tinsmithing firm.</description>
-    </item>
-    <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/blog-post-template/</link>
       <pubDate>Mon, 08 Jul 2024 20:03:46 +0200</pubDate>
