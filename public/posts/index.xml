@@ -1,22 +1,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Hello Friend</title>
-        <link>https://eiken.io/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>Recent content in Posts on Hello Friend</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Mon, 08 Jul 2024 20:03:46 +0200</lastBuildDate>
-        <atom:link href="https://eiken.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>My first post</title>
-            <link>https://eiken.io/posts/1st-post/</link>
-            <pubDate>Sun, 07 Jul 2024 19:30:38 +0200</pubDate>
+            <title>A Cybersecurity Graduate’s Quest of Leveling Up</title>
+            <link>http://localhost:1313/posts/first-post/</link>
+            <pubDate>Mon, 08 Jul 2024 20:03:46 +0200</pubDate>
             
-            <guid>https://eiken.io/posts/1st-post/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <guid>http://localhost:1313/posts/first-post/</guid>
+            <description>Introduction Is this thing on? Hellooo, fellow cyberhumans! I’m here to spill the tea on my journey from cybersecurity newbie to hopefully-not-so-newbie. I’m fresh off university with a bachelor’s degree in Digital Infrastructure and Cybersecurity, ready to dive headfirst into the world of digital mischief and mayhem, but on the right side of the law, of course!
+Why Cybersecurity? One particular podcast sparked my interest in cybersecurity. Darknet Diares, which I’ve been a huge advocate for, was the podcast I was eagerly listening to while hammering metal in my old job in a tinsmithing company.</description>
+            <content type="html"><![CDATA[<h1 id="introduction">Introduction</h1>
+<p>Is this thing on? Hellooo, fellow cyberhumans! I’m here to spill the tea on my journey from cybersecurity newbie to hopefully-not-so-newbie. I’m fresh off university with a bachelor’s degree in Digital Infrastructure and Cybersecurity, ready to dive headfirst into the world of digital mischief and mayhem, but on the right side of the law, of course!</p>
+<h1 id="why-cybersecurity">Why Cybersecurity?</h1>
+<p>One particular podcast sparked my interest in cybersecurity. Darknet Diares, which I’ve been a huge advocate for, was the podcast I was eagerly listening to while hammering metal in my old job in a tinsmithing company. I heard stories about skilled penetration testers, nation state hackers and felt like I unlocked a new universe of fascinating stories and people. I quit my job to get my grades up for university and six months later I applied for Digital Infrastructure and Cybersecurity. I somehow got admittance at NTNU, where I got the first introduction to actual computer knowledge, which was beyond the shallow knowledge I already possessed via gaming and daily computer use.</p>
+<h1 id="what-ive-done-so-far">What I’ve Done So Far</h1>
+<p>Finished my bachelor’s degree with a strong curiosity for offensive security, which our bachelor’s thesis displays. Days consisted of lectures, assignments, CTF’s in the evenings and voluntary work for Login, the student union representing all IT students on campus. I was elected leader of Login half-way into the second semester of the first year and started working part-time as a security analyst at a SOC the same summer. Being active in the student union, working part-time and having a full-time study sure presented me with challenges I haven’t had to face before, but also gave me enormous amounts of positive experiences, knowledge and connections I wouldn’t want to be without.
+The past three years have been absolutely invaluable for both personal and professional development. I have challenged myself and found a balance which is more sustainable than I started out with during my first and second year. I started using Ubuntu as my main operating system towards the end of my first year and used it all of second year before testing out window tiling managers. Sway was the WM of choice, which absolutely served it’s purpose even on Ubuntu, but I made the mistake of stumbling onto the <a href="https://www.reddit.com/r/unixporn/">unixporn</a> reddit. Following the graduation, I ended up installing Arch linux, using hyprland as my environment of choice. I am still in the process of customizing my environment to my liking and might share my config (dotfiles) at some point if it is of any interest.</p>
+<h1 id="what-im-currently-up-to">What I’m Currently Up To</h1>
+<p>Currently I am considering if I should accept the offer for admittance to a master in information security at NTNU, take a couple of programming subjects or if I should take a year where I work on projects I’ve set aside during the course of my studies due to not having enough time. I have always been fairly set on the fact that I want to pursuit offensive security at some point in my infosec career. After I got the environment up and running, I got this blog up and running utilizing github pages and Hugo. I am currently starting my journey with “The Web Application Hacker’s Handbook” by Dafydd Stuttard and Marcus Pinto, which is referred to as a great fundament for any web application hacker wanting to get started.</p>
+<h1 id="why-this-blog-now-exists-besides-my-undying-love-for-cybersecurity">Why this blog now exists (besides my undying love for cybersecurity)</h1>
+<p><strong>Accountability:</strong> Let’s be real, did it even happen if I don’t write it down?
+<strong>XP Boost:</strong> This blog will be my personal training ground for becoming a cybersecurity grandmaster.
+<strong>Digital Time Capsule:</strong> I’m creating a virutal scrapbook of my cybersecurity adventures for future me to cringe at (and maybe learn from).
+<strong>Sharing is (sometimes) caring:</strong> If my ramblings about vulnerabilities and fuzzing can help someone else avoid a faceplant, then hey, I’ve done my good deed for the day.
+<strong>Rabbit hole central:</strong> Consider this your invitation to dive down some cybersecurity holes with me. There might be some nuggets of wisdom and memes along the way.
+<strong>Grammar police, don’t @ me:</strong> I am also using this blog to finally master the difference between “its” and “it’s”. Wish me luck!</p>
+<h1 id="what-youre-in-for">What you’re in for</h1>
+<ul>
+<li>Project Show-and-Tell: Front-row seat to my ongoing and future cybersecurity escapades. Expect triumps, flops and everything in between.</li>
+<li>Hacking how-to’s: I’ll be spilling the beans on all the juicy cybersecurity secrets I uncover.</li>
+<li>Knowledge bombs: I’m constantly diving down rabbit holes of cybersecurity knowledge, and I’ll be sharing the most interesting nuggets I find along the way.</li>
+<li>Tool time: I will be sharing the coolest and most relevant gadgets I’m trying out with honest reviews and appliances.</li>
+<li>Events: Attending events is a good way to network, gain knowledge and stay motivated in a field which can easily lead to burnout or impostor syndrome. Being social is vital for multiple reasons.</li>
+<li>My digital crib: I might be sharing my personal setup and maybe even a few embarrassing desktop screenshots if you’re lucky.</li>
+</ul>
+<h1 id="thats-all">That’s all</h1>
+<p>Thank you for sticking around for my cybersecurity debut. If you survived this post without a headache, congratulations. You’ve earned a cookie! 🍪 I hope you’ll find some useful info, some laughs and maybe even new appreciation for cybersecurity related content. Don’t be a stranger, I go by the absolute banger name of ApocalypticWasteman on discord if you want to chat.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>My First Post</title>
+            <link>http://localhost:1313/posts/blog-post-template/</link>
+            <pubDate>Mon, 08 Jul 2024 20:03:46 +0200</pubDate>
+            
+            <guid>http://localhost:1313/posts/blog-post-template/</guid>
+            <description>Template post Add content Add a new page to your site.
+hugo new content content/posts/my-first-post.md Hugo created the file in the content/posts directory. Open the file with your editor.
++++ title = &amp;#39;My First Post&amp;#39; date = 2024-01-14T07:07:07+01:00 draft = true +++ Notice the draft value in the front matter is true. By default, Hugo does not publish draft content when you build the site. Learn more about draft, future, and expired content.</description>
+            <content type="html"><![CDATA[<h1 id="template-post">Template post</h1>
+<h2 id="add-content">Add content</h2>
+<p>Add a new page to your site.</p>
+<pre tabindex="0"><code>hugo new content content/posts/my-first-post.md
+</code></pre><p>Hugo created the file in the content/posts directory. Open the file with your editor.</p>
+<pre tabindex="0"><code>+++
+title = &#39;My First Post&#39;
+date = 2024-01-14T07:07:07+01:00
+draft = true
++++
+</code></pre><p>Notice the <strong>draft</strong> value in the front matter is <strong>true</strong>. By default, Hugo does not publish draft content when you build the site. Learn more about draft, future, and expired content.</p>
+<p>Add some Markdown to the body of the post, but do not change the draft value.</p>
+<p>+++
+title = &lsquo;My First Post&rsquo;
+date = 2024-01-14T07:07:07+01:00
+draft = true
++++</p>
+<h2 id="introduction">Introduction</h2>
+<p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
+<p>Visit the <a href="https://gohugo.io">Hugo</a> website!
+Save the file, then start Hugo’s development server to view the site. You can run either of the following commands to include draft content.</p>
+<p>hugo server &ndash;buildDrafts
+hugo server -D
+View your site at the URL displayed in your terminal. Keep the development server running as you continue to add and change content.</p>
+<p>When satisfied with your new content, set the front matter draft parameter to false.&gt;)</p>
+]]></content>
         </item>
         
     </channel>
