@@ -16,12 +16,5 @@
       <guid>http://localhost:1313/posts/blog-post-template/</guid>
       <description>Template post Add content Add a new page to your site.&#xA;hugo new content content/posts/my-first-post.md Hugo created the file in the content/posts directory. Open the file with your editor.&#xA;+++ title = &amp;#39;My First Post&amp;#39; date = 2024-01-14T07:07:07+01:00 draft = true +++ Notice the draft value in the front matter is true. By default, Hugo does not publish draft content when you build the site. Learn more about draft, future, and expired content.</description>
     </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Mon, 08 Jul 2024 20:03:46 +0200</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>From zero to less of a noob Hello and welcome to my first blog post. I recently finished my bachelor’s degree in Digital Infrastructure and Cybersecurity and am somewhat unsure of where my path leads for the coming year or two. I have a few projects I’ve deemed interesting and want to work with, and for future reminiscing I will do my best at documenting the parts I find interesting on this site.</description>
-    </item>
   </channel>
 </rss>
