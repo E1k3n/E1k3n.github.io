@@ -67,5 +67,5 @@ Currently I am considering if I should accept the offer for admittance to a mast
 - Events: Attending events is a good way to network, gain knowledge and stay motivated in a field which can easily lead to burnout or impostor syndrome. Being social is vital for multiple reasons. 
 - My digital crib: I might be sharing my personal setup and maybe even a few embarrassing desktop screenshots if you’re lucky. 
 
-## Closing
-Thank you for sticking around for my cybersecurity debut. If you survived this post without a headache, congratulations! Stay tuned for 
+## That’s all
+Thank you for sticking around for my cybersecurity debut. If you survived this post without a headache, congratulations. You’ve earned a cookie! 🍪 I hope you’ll find some useful info, some laughs and maybe even new appreciation for cybersecurity related content. Don’t be a stranger, I go by the absolute banger name of ApocalypticWasteman on discord if you want to chat. 
