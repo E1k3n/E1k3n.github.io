@@ -22,7 +22,7 @@ Fast forward a few years, and I'm officially a cybersecurity grad! 🎓 My thesi
 Speaking of passion, I've also become a full-fledged Linux convert. I went from the default Ubuntu Gnome environment to Sway, and now I'm rocking Hyprland on Arch Linux. It's been a journey of customization and endless tinkering.
 
 # What I’m Currently Up To
-Right now, I'm at a crossroads. Do I pursue a master's in information security?  Dive into some programming courses? Or maybe dedicate a year to tackling all those side projects that got neglected during my studies? 🤔 One thing's for sure: my sights are set on a career in offensive security. In the meantime, I'm sharpening my skills with ‘[The Web Application Hacker's Handbook]()’ and setting up this blog (powered by GitHub Pages and [Hugo](), in case you're curious).
+Right now, I'm at a crossroads. Do I pursue a master's in information security?  Dive into some programming courses? Or maybe dedicate a year to tackling all those side projects that got neglected during my studies? 🤔 One thing's for sure: my sights are set on a career in offensive security. In the meantime, I'm sharpening my skills with ‘[The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)’ and setting up this blog (powered by GitHub Pages and [Hugo](https://gohugo.io), in case you're curious).
 
 # Why this blog now exists (besides my undying love for cybersecurity)
 **Accountability:** Let’s be real, did it even happen if I don’t write it down?
