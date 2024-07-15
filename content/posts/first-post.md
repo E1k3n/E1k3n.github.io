@@ -55,6 +55,7 @@ Currently I am considering if I should accept the offer for admittance to a mast
 	- [ ] Holding myself accountable
 - [ ] Future reminiscing
 - [ ] Documenting my experiences and road
+- [ ] Hopefully I can drop some interesting rabbit holes to read up on or look back on at a later point. 
 
 
 ## What you can expect
