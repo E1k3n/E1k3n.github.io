@@ -52,10 +52,17 @@ Currently I am considering if I should accept the offer for admittance to a mast
 
 ## Goals for this blog
 - [ ] Motivation
+	- [ ] Holding myself accountable
 - [ ] Future reminiscing
 - [ ] Documenting my experiences and road
 
+
 ## What you can expect
+- Technical tutorials and guides (vulnerability scanning, tooling, testing, etc.)
+- Project updates (ongoing and future)
+- Insights into articles and knowledge I come across
+- Tool recommendations and reviews
+- Personal setup and workflow tips
 
 ## Closing
 Thank you for reading my first ever blog post. I’m excited for what’s to come in the future adventures. 
