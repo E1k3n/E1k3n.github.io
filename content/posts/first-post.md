@@ -1,5 +1,5 @@
 ---
-title: A Cybersecurity Graduate’s Quest of Leveling Up
+title: A Cybersecurity Graduate's Quest of Leveling Up
 date: 2024-07-08T20:03:46+02:00
 draft: true
 toc: false
