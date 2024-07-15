@@ -24,11 +24,12 @@ Oh, and I should mention my love affair with Linux. I've hopped from distro to d
 ## What I’m Currently Up To
 Right now, I'm at a crossroads. Do I pursue a master's in information security?  Dive into some programming courses? Or maybe dedicate a year to tackling all those side projects that got neglected during my studies? 🤔 One thing's for sure: my sights are set on a career in offensive security. In the meantime, I'm sharpening my skills with ‘[The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)’ and trying my hand at this whole blogging thing (powered by GitHub Pages and [Hugo](https://gohugo.io), in case you're curious).
 
-## Why this blog now exists (besides my undying love for cybersecurity)
+## Why i started this blog
+I started this blog for a few reasons:
 
-- **Accountability:** If it's not documented, did it really happen?
+- **Accountability:** If it's not documented, did it really happen? Writing down my goals and progress helps me stay motivated and focused
 - **XP Boost:** This blog is my personal scrap book for leveling up my cybersecurity ninja skills.
-- **Capturing my journey:** Think of this as a virtual scrapbook for my future self to laugh (or cringe) at.
+- **Capturing my journey:** Think of this as a digital diary for my future self to laugh (or cringe) at.
 - **Sharing is Caring (Sometimes):** Hopefully, my experiences and insights can help other aspiring cybersecurity professionals on their own journeys and prevent a faceplant or two.
 - **Connecting with others:** I’m excited to learn from and collaborate with other people who share my passion for security.
 - **To improve my writing:** Because let’s be honest, my technical writing could use a bit of work
@@ -36,13 +37,12 @@ Right now, I'm at a crossroads. Do I pursue a master's in information security? 
 
 ## What you might find here
 
-- **Project Show-and-Tell:** I'll be sharing my experiences as I navigate the cybersecurity landscape, from learning new skills to working on projects.
-- **Sharing what I learn:** I'll pass along any interesting articles, tools, or tutorials that I come across.
-- **Exploring Cybersecurity Together:** I want to dig into interesting articles, discuss new research, and discover areas of appliance over the new knowledge.
+- **A glimpse into my world:** I'll be sharing my experiences as I navigate the cybersecurity landscape, from learning new skills to working on projects.
+- **Helpful resources:** I'll pass along any interesting articles, tools, or tutorials that I come across.
 - **Tool Time (But Not Too Much):** Occasionally, I'll review the tools and software I'm using, but I promise not to bombard you with too many useless applications.
 - **Cybersecurity in the Real World:** If I attend any conferences or meetups, I'll share insights and takeaways.
 - **My digital crib:** If you're curious about my workflow or the tools I use, I might share some glimpses into my personal setup. I have a personal road-map containing the projects I want to follow through with somewhere in the future.
 - **The occasional rant:** Sometimes you just need to vent about that frustrating bug or problem you can’t figure out.
 
-## That’s all
+## Thanks for stopping by!
 Thank you for sticking around for my cybersecurity debut. If you survived this post without a headache, congratulations. You’ve earned a cookie! 🍪 I hope you’ll find some useful info, some laughs and maybe even new appreciation for cybersecurity related content. Don’t be a stranger, I go by the absolute banger name of ApocalypticWasteman on discord if you want to chat. 
