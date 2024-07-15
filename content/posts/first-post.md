@@ -56,9 +56,17 @@ Currently I am considering if I should accept the offer for admittance to a mast
 **Digital Time Capsule:** I’m creating a virutal scrapbook of my cybersecurity adventures for future me to cringe at (and maybe learn from). 
 **Sharing is (sometimes) caring:** If my ramblings about vulnerabilities and fuzzing can help someone else avoid a faceplant, then hey, I’ve done my good deed for the day. 
 **Rabbit hole central:** Consider this your invitation to dive down some cybersecurity holes with me. There might be some nuggets of wisdom and memes along the way. 
+**Grammar police, don’t @ me:** I am also using this blog to finally master the difference between “its” and “it’s”. Wish me luck!
 
 
-## What you can expect
+## What you’re in for
+- Project Show-and-Tell: Front-row seat to my ongoing and future cybersecurity escapades. Expect triumps, flops and everything in between. 
+- Hacking how-to’s: I’ll be spilling the beans on all the juicy cybersecurity secrets I uncover. 
+- Knowledge bombs: I’m constantly diving down rabbit holes of cybersecurity knowledge, and I’ll be sharing the most interesting nuggets I find along the way. 
+- Tool time: I will be sharing the coolest and most relevant gadgets I’m trying out with honest reviews and appliances. 
+- Events: Enjoying events and networking is an important 
+
+
 - Technical tutorials and guides (vulnerability scanning, tooling, testing, etc.)
 - Project updates (ongoing and future)
 - Insights into articles and knowledge I come across
