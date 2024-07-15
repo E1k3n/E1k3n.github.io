@@ -39,7 +39,7 @@ I started this blog for a few reasons:
 
 - **A glimpse into my world:** I'll be sharing my experiences as I navigate the cybersecurity landscape, from learning new skills to working on projects.
 - **Helpful resources:** I'll pass along any interesting articles, tools, or tutorials that I come across.
-- **Tool Time (But Not Too Much):** Occasionally, I'll review the tools and software I'm using, but I promise not to bombard you with too many useless applications.
+- **Tool Time (But Not Too Much):** Occasionally, I'll review the tools and software I'm using, but I promise not to bombard you with too many useless tools and applications.
 - **Cybersecurity in the Real World:** If I attend any conferences or meetups, I'll share insights and takeaways.
 - **My digital crib:** If you're curious about my workflow or the tools I use, I might share some glimpses into my personal setup. I have a personal road-map containing the projects I want to follow through with somewhere in the future.
 - **The occasional rant:** Sometimes you just need to vent about that frustrating bug or problem you can’t figure out.
