@@ -41,7 +41,7 @@ Hello and welcome to my first blog post. I recently finished my bachelor’s deg
 Is this thing on? Hellooo, fellow cyberhumans! I’m here to spill the tea on my journey from cybersecurity newbie to hopefully-not-so-newbie. I’m fresh off university with a bachelor’s degree in Digital Infrastructure and Cybersecurity, ready to dive headfirst into the world of digital mischief and mayhem, but on the right side of the law, of course!
 
 ## Why Cybersecurity?
-
+One particular podcast sparked my interest in cybersecurity. Darknet Diares, which I’ve been a huge advocate for, was the podcast I was eagerly listening to while hammering metal in my old job in a tinsmithing company. I decided to quit to get my grades up for university and six months later I applied for Digital Infrastructure and Cybersecurity. I somehow got 
 
 ## What I’ve Done So Far
 
