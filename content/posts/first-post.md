@@ -64,14 +64,8 @@ Currently I am considering if I should accept the offer for admittance to a mast
 - Hacking how-to’s: I’ll be spilling the beans on all the juicy cybersecurity secrets I uncover. 
 - Knowledge bombs: I’m constantly diving down rabbit holes of cybersecurity knowledge, and I’ll be sharing the most interesting nuggets I find along the way. 
 - Tool time: I will be sharing the coolest and most relevant gadgets I’m trying out with honest reviews and appliances. 
-- Events: Enjoying events and networking is an important 
-
-
-- Technical tutorials and guides (vulnerability scanning, tooling, testing, etc.)
-- Project updates (ongoing and future)
-- Insights into articles and knowledge I come across
-- Tool recommendations and reviews
-- Personal setup and workflow tips
+- Events: Attending events is a good way to network, gain knowledge and stay motivated in a field which can easily lead to burnout or impostor syndrome. Being social is vital for multiple reasons. 
+- My digital crib: I might be sharing my personal setup and maybe even a few embarrassing desktop screenshots if you’re lucky. 
 
 ## Closing
-Thank you for reading my first ever blog post. I’m excited for what’s to come in the future adventures. 
+Thank you for sticking around for my cybersecurity debut. If you survived this post without a headache, congratulations! Stay tuned for 
