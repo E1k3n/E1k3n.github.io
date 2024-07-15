@@ -51,14 +51,11 @@ The past three years have been absolutely invaluable for both personal and profe
 Currently I am considering if I should accept the offer for admittance to a master in information security at NTNU, take a couple of programming subjects or if I should take a year where I work on projects I’ve set aside during the course of my studies due to not having enough time. I have always been fairly set on the fact that I want to pursuit offensive security at some point in my infosec career. After I got the environment up and running, I got this blog up and running utilizing github pages and Hugo. I am currently starting my journey with “The Web Application Hacker’s Handbook” by Dafydd Stuttard and Marcus Pinto, which is referred to as a great fundament for any web application hacker wanting to get started. 
 
 ## Why this blog now exists (besides my undying love for cybersecurity)
-**XP Boot:** This blog will be my personal training ground for becoming a cybersecurity grandmaster. 
 **Accountability:** Let’s be real, did it even happen if I don’t write it down?
-**Digital Time Capsule:** 
-**Sharing is (sometimes) caring:** If my ramblings about 
-	- [ ] Holding myself accountable
-- [ ] Future reminiscing
-- [ ] Documenting my experiences and road
-- [ ] Hopefully I can drop some interesting rabbit holes someone can get value from reading up on or look back on at a later point.
+**XP Boost:** This blog will be my personal training ground for becoming a cybersecurity grandmaster. 
+**Digital Time Capsule:** I’m creating a virutal scrapbook of my cybersecurity adventures for future me to cringe at (and maybe learn from). 
+**Sharing is (sometimes) caring:** If my ramblings about vulnerabilities and fuzzing can help someone else avoid a faceplant, then hey, I’ve done my good deed for the day. 
+**Rabbit hole central:** Consider this your invitation to dive down some cybersecurity holes with me. There might be some nuggets of wisdom and memes along the way. 
 
 
 ## What you can expect
