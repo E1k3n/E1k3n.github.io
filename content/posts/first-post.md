@@ -36,13 +36,13 @@ Right now, I'm at a crossroads. Do I pursue a master's in information security? 
 
 ## What you might find here
 
-- **Project Show-and-Tell:** I'll be documenting my ongoing adventures in cybersecurity, including the ups and downs of learning new skills, tackling projects, and trying not to break the internet (too often).
+- **Project Show-and-Tell:** I'll be sharing my experiences as I navigate the cybersecurity landscape, from learning new skills to working on projects.
 - **Sharing what I learn:** I'll pass along any interesting articles, tools, or tutorials that I come across.
 - **Exploring Cybersecurity Together:** I want to dig into interesting articles, discuss new research, and discover areas of appliance over the new knowledge.
 - **Tool Time (But Not Too Much):** Occasionally, I'll review the tools and software I'm using, but I promise not to bombard you with too many useless applications.
 - **Cybersecurity in the Real World:** If I attend any conferences or meetups, I'll share insights and takeaways.
 - **My digital crib:** If you're curious about my workflow or the tools I use, I might share some glimpses into my personal setup. I have a personal road-map containing the projects I want to follow through with somewhere in the future.
-- **The occasional rant:** Sometimes you just need to vent about that frustrating bug or vulnerability. 
+- **The occasional rant:** Sometimes you just need to vent about that frustrating bug or problem you can’t figure out.
 
 ## That’s all
 Thank you for sticking around for my cybersecurity debut. If you survived this post without a headache, congratulations. You’ve earned a cookie! 🍪 I hope you’ll find some useful info, some laughs and maybe even new appreciation for cybersecurity related content. Don’t be a stranger, I go by the absolute banger name of ApocalypticWasteman on discord if you want to chat. 
