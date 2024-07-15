@@ -35,10 +35,11 @@ Right now, I'm at a crossroads. Do I pursue a master's in information security? 
 
 
 ## What you’re in for
-- Project Show-and-Tell: Front-row seat to my ongoing and future cybersecurity escapades. Expect triumps, flops and everything in between. 
-- Hacking how-to’s: I’ll be spilling the beans on all the juicy cybersecurity secrets I uncover. 
-- Knowledge bombs: I’m constantly diving down rabbit holes of cybersecurity knowledge, and I’ll be sharing the most interesting nuggets I find along the way. 
-- Tool time: I will be sharing the coolest and most relevant gadgets I’m trying out with honest reviews and appliances. 
+
+**Project Show-and-Tell:** Expect regular updates on my cybersecurity adventures, from exciting breakthroughs to epic fails.
+**Hacking How-Tos:** I'll share the tricks and tools I gather along the way, so you hopefully can level up your game too.
+- Knowledge bombs: I’m constantly diving down rabbit holes of cybersecurity knowledge, and I’ll be sharing the most interesting news, articles and other resources I find along the way. 
+- Shiny new toys: I will be sharing some of the recent tools I’ve encountered, used and tested. 
 - Events: Attending events is a good way to network, gain knowledge and stay motivated in a field which can easily lead to burnout or impostor syndrome. Being social is vital for multiple reasons. 
 - My digital crib: I might be sharing my personal setup and maybe even a few embarrassing desktop screenshots if you’re lucky. 
 
