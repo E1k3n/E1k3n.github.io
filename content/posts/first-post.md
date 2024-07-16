@@ -1,5 +1,5 @@
 ---
-title: A Cybersecurity Graduate's Quest for digital glory
+title: A Cybersecurity Graduate's Quest For Digital Glory
 date: 2024-07-15T06:46:46+02:00
 draft: false
 toc: false
